@@ -22,7 +22,7 @@
 
 <h1>🛠 Me Stack</h1>
 
-- 💻 &nbsp;  | `.sh` | `.html` | `.css` | 
+- 💻 &nbsp;  | `.cs` | `.html` | `.css` | 
 - 🌐 &nbsp; .NET 6/5/3 | MVC | WebApi | WebForms | 
 - 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS | 
 - 🛢 &nbsp; SqlServer | PostgreSql | 
