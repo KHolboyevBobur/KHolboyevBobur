@@ -3,7 +3,7 @@
 
 # Hi there, I'm Bobur 👋
 
-> .NEt programmer, teacher of c# .NEt course.
+> .NET programmer, teacher of c# .NEt course.
 <br/><br/><br/>
 
 <p align="end">
@@ -31,4 +31,3 @@
 <br/>
 
 
--->
