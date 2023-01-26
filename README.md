@@ -14,8 +14,7 @@
 
 <h1> 👨🏻‍💻 Me now </h1>
 
-  - 👨‍🏫 &nbsp; Teaching programming at [Bepro IT Academy](https://https://beproedu.uz/)
-- 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/wahidsblog)
+- 👨‍🏫 &nbsp; Teaching programming at [Bepro IT Academy](https://https://beproedu.uz/)
 - 🌱 &nbsp; Learning Docker and a lot more tech stuff.
 - 📫 &nbsp; Contact me: kholboyev.bobur@gmail.com
 
