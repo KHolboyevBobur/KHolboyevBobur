@@ -3,7 +3,7 @@
 
 # Hi there, I'm Bobur 👋
 
-> .NET programmer, teacher of c# .NEt course.
+> Java programmer, teacher of c#, java course.
 <br/><br/><br/>
 
 <p align="end">
@@ -22,11 +22,11 @@
 
 <h1>🛠 Me Stack</h1>
 
-- 💻 &nbsp;  | `.cs` | `.html` | `.css` | 
-- 🌐 &nbsp; .NET 6/5/3 | MVC | WebApi | WebForms | 
+- 💻 &nbsp; | `.java` | `.cs` | `.html` | `.css` | 
+- 🌐 &nbsp; Spring Boot | Axon Framework |.NET 6/5/3 | MVC | WebApi | WebForms | 
 - 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS | 
-- 🛢 &nbsp; SqlServer | PostgreSql | 
-- ⚙️ &nbsp; Git | Github Actions | 
+- 🛢 &nbsp; SqlServer | PostgreSql | Axon Server | 
+- ⚙️ &nbsp; Git | GitHub | GitLab
 
 <br/>
 
